@@ -13,6 +13,12 @@ This is a repository for collecting and collating vulnerability disclosures, tip
 
 Summary:  Reolink RLC-410W v3.0.0.136_20121102  ,There are multiple vulnerabilities，including ‘factory’ binary firmware update vulnerabilty， information disclosure, denial of service vulnerability, authentication bypass
 ![image](https://github.com/Tig3rHu/MessageForV/blob/main/MarkdownImage/4c845ba2a64d47679ce275eb410359d.png)
+
+[2] https://palmopensource.com/hardware/jw0004-webcam.php
+
+Summary: Wanscam JW0004 IP Webcam hacking, this article describe some idea that about upnpd and authentication vulnerability
+
+
 ## Firewall
 
 # Idea
