@@ -19,5 +19,6 @@ Summary:  Reolink RLC-410W v3.0.0.136_20121102  ,There are multiple vulnerabilit
 
 ## Automation Vulnerability discover
 [1] use Binary Ninja to discover vulnerabilty of IOT device
+
 https://dawnslab.jd.com/binaryninja1-zh-cn/
 
