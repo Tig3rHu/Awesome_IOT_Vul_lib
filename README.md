@@ -22,6 +22,9 @@ Summary: Wanscam JW0004 IP Webcam hacking, this article describe some idea that 
 
 summary : The firmware to decrypt use unzip tool that we can use unzip and string to find the key,
 
+[4] https://github.com/full-disclosure/FDEU-CVE-2021-525A
+
+summary : D-Link credentials decryption tool poc
 ## Firewall
 
 # Idea
