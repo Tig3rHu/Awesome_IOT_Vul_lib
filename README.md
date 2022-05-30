@@ -18,6 +18,9 @@ Summary:  Reolink RLC-410W v3.0.0.136_20121102  ,There are multiple vulnerabilit
 
 Summary: Wanscam JW0004 IP Webcam hacking, this article describe some idea that about upnpd and authentication vulnerability
 
+[3] https://www.pentestpartners.com/security-blog/hacking-the-ip-camera-part-1/
+
+summary : The firmware to decrypt use unzip tool that we can use unzip and string to find the key,
 
 ## Firewall
 
