@@ -25,6 +25,11 @@ summary : The firmware to decrypt use unzip tool that we can use unzip and strin
 [4] https://github.com/full-disclosure/FDEU-CVE-2021-525A
 
 summary : D-Link credentials decryption tool poc
+
+[5] https://www.exploitee.rs/index.php/
+
+summary : A platform to disclose some vulnerabilities
+
 ## Firewall
 
 # Idea
