@@ -5,7 +5,9 @@ This is a repository for collecting and collating vulnerability disclosures, tip
 # Vulnerability Disclosures
 
 ## router
+[1] https://wzt.ac.cn/2021/01/13/AC2400_vuln/
 
+Summary: Analyze an unauthorized access vulnerability
 
 ## Camera
 
