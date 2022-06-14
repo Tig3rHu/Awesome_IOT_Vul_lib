@@ -41,3 +41,7 @@ summary : A platform to disclose some vulnerabilities
 
 https://dawnslab.jd.com/binaryninja1-zh-cn/
 
+[2]Finding Vulnerabilities with VulFi IDA Plugin
+
+https://www.accenture.com/us-en/blogs/security/finding-vulnerabilities-vulfi-ida-plugin
+
