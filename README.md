@@ -6,8 +6,10 @@ This is a repository for collecting and collating vulnerability disclosures, tip
 
 ## router
 [1] https://wzt.ac.cn/2021/01/13/AC2400_vuln/
-
 Summary: Analyze an unauthorized access vulnerability
+
+[2] https://github.com/aaronsvk/CVE-2022-30075
+Summary:  TP-Link AX50 RCE
 
 ## Camera
 
