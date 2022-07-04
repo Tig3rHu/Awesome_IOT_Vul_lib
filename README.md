@@ -11,6 +11,9 @@ Summary: Analyze an unauthorized access vulnerability
 [2] https://github.com/aaronsvk/CVE-2022-30075
 Summary:  TP-Link AX50 RCE
 
+[3] https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html
+Summary: NetGear orbi RCE
+
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
