@@ -14,6 +14,10 @@ Summary:  TP-Link AX50 RCE
 [3] https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html
 Summary: NetGear orbi RCE
 
+[4] https://blog.leakix.net/2022/06/d-link-dir-842-rev-b-privilege-escalation/
+    https://eh-easyhacks.blogspot.com/2022/04/cve-2021-45382.html
+Summary: 介绍DIR-842 设备开启sharePort 功能，然后 /ddns_check.ccp 获取命令执行
+
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
