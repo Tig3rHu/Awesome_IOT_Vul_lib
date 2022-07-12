@@ -15,7 +15,8 @@ Summary:  TP-Link AX50 RCE
 Summary: NetGear orbi RCE
 
 [4] https://blog.leakix.net/2022/06/d-link-dir-842-rev-b-privilege-escalation/
-    https://eh-easyhacks.blogspot.com/2022/04/cve-2021-45382.html
+   
+   https://eh-easyhacks.blogspot.com/2022/04/cve-2021-45382.html
 Summary: 介绍DIR-842 设备开启sharePort 功能，然后 /ddns_check.ccp 获取命令执行
 
 ## Camera
