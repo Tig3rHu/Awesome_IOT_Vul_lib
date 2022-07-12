@@ -6,17 +6,21 @@ This is a repository for collecting and collating vulnerability disclosures, tip
 
 ## router
 [1] https://wzt.ac.cn/2021/01/13/AC2400_vuln/
+
 Summary: Analyze an unauthorized access vulnerability
 
 [2] https://github.com/aaronsvk/CVE-2022-30075
+
 Summary:  TP-Link AX50 RCE
 
 [3] https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html
+
 Summary: NetGear orbi RCE
 
 [4] https://blog.leakix.net/2022/06/d-link-dir-842-rev-b-privilege-escalation/
    
    https://eh-easyhacks.blogspot.com/2022/04/cve-2021-45382.html
+   
 Summary: 介绍DIR-842 设备开启sharePort 功能，然后 /ddns_check.ccp 获取命令执行
 
 ## Camera
