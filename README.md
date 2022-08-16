@@ -46,6 +46,10 @@ summary : D-Link credentials decryption tool poc
 
 summary : A platform to disclose some vulnerabilities
 
+[6] http://www.hydrogen18.com/blog/hacking-zyxel-ip-cameras-pt-1.html
+
+summary : Hack the Zyxel IP camera to obtain the root shell
+
 ## Firewall
 
 # Idea
