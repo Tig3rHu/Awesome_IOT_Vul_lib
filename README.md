@@ -23,6 +23,10 @@ Summary: NetGear orbi RCE
    
 Summary: 介绍DIR-842 设备开启sharePort 功能，然后 /ddns_check.ccp 获取命令执行
 
+[5] https://blog.viettelcybersecurity.com/1day-to-0day-on-tl-link-tl-wr841n/
+
+Summary: 这个文章里讲了TL-Link WR841N 的漏洞，分析了1day 的触发原因，然后挖到了0day， 0day 的漏洞原理:循环给一个局部变量增加字节，没有显示字节的大小，导致栈溢出（区别于strcpy 这种方式）; 还讲述了栈溢出的漏洞exploit。
+
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
