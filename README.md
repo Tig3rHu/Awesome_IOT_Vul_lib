@@ -31,9 +31,9 @@ Summary: 这个文章里讲了TL-Link WR841N 的漏洞，分析了1day 的触发
 
 Summary : TP-Link TL-WR940N：1day（CVE-2022-24355）缓冲区溢出RCE漏洞分析
 
-[7] https://boschko.ca/tenda_ac1200_router/   
+[7] https://boschko.ca/tenda_ac1200_router/   https://boschko.ca/glinet-router/
 
-Summary : Tengda is the vulnerability, the author's analysis is more detailed, the thinking process is worth learning
+Summary : The author's analysis is more detailed, the thinking process is worth learning 
 
 
 
