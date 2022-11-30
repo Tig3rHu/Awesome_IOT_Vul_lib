@@ -66,6 +66,11 @@ summary : A platform to disclose some vulnerabilities
 
 summary : Hack the Zyxel IP camera to obtain the root shell
 
+[7] https://vulncheck.com/blog/xiongmai-iot-exploitation
+
+summary : Some research on historical vulnerabilities of Xiongmai devices
+
+
 ## Firewall
 
 # Idea
