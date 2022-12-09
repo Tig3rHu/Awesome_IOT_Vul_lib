@@ -35,9 +35,13 @@ Summary : TP-Link TL-WR940N：1day（CVE-2022-24355）缓冲区溢出RCE漏洞�
 
 Summary : The author's analysis is more detailed, the thinking process is worth learning 
 
+[8]https://boschko.ca/tenda_ac1200_router/
 
+Summary: Tenda AC1200 漏洞报告
 
+[9] https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md
 
+TP-Link WR940N SSDP 漏洞
 
 ## Camera
 
