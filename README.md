@@ -70,6 +70,15 @@ summary : Hack the Zyxel IP camera to obtain the root shell
 
 summary : Some research on historical vulnerabilities of Xiongmai devices
 
+## Security of Car
+海盗讲车：黑掉T-Box
+https://www.freebuf.com/articles/endpoint/240414.html?ref=www.ctfiot.com
+对挪威一款Zaptec Pro 电动车充电桩的安全研究报告
+https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/
+海盗讲车：车机的渗透思路与实例分析
+https://www.freebuf.com/articles/endpoint/241930.html?ref=www.ctfiot.com
+
+
 
 ## Firewall
 
