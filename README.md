@@ -74,6 +74,11 @@ summary : Hack the Zyxel IP camera to obtain the root shell
 
 summary : Some research on historical vulnerabilities of Xiongmai devices
 
+[8] https://www.somersetrecon.com/blog/2022/hacking-the-furbo-dog-camera-part-iii
+
+summary : A means of attacking by updating firmware
+
+
 ## Security of Car
 海盗讲车：黑掉T-Box
 https://www.freebuf.com/articles/endpoint/240414.html?ref=www.ctfiot.com
