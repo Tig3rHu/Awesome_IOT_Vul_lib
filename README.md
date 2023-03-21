@@ -43,6 +43,10 @@ Summary: Tenda AC1200 漏洞报告
 
 TP-Link WR940N SSDP 漏洞
 
+[10] https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware
+
+对DIR-864 固件模拟和漏洞挖掘，通过上传配置文件，打开路由器的telnetd。
+
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
