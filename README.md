@@ -47,6 +47,9 @@ TP-Link WR940N SSDP 漏洞
 
 对DIR-864 固件模拟和漏洞挖掘，通过上传配置文件，打开路由器的telnetd。
 
+[11] https://blog.talosintelligence.com/vulnerability-spotlight-netgear-orbi-router-vulnerable-to-arbitrary-command-execution/
+Netgear Orbi Satellite RBS750，远程代码执行漏洞 TAOS-2022-1595 (CVE-2022-36429)
+
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
