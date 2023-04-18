@@ -53,6 +53,8 @@ Netgear Orbi Satellite RBS750，远程代码执行漏洞 TAOS-2022-1595 (CVE-202
 [12] https://mahaloz.re/2023/02/25/pwnagent-netgear.html
 PwnAgent：带有 CVE-2023-24749 的 Netgear RAX 路由器中的一键式 WAN 端 RCE
 
+[13] https://code-byter.com/2022/04/06/fantec-wifi.html
+WiFi Travel Router 漏洞, 文件上传漏洞，栈溢出漏洞利用，有利用过程
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
