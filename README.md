@@ -55,6 +55,9 @@ PwnAgent：带有 CVE-2023-24749 的 Netgear RAX 路由器中的一键式 WAN �
 
 [13] https://code-byter.com/2022/04/06/fantec-wifi.html
 WiFi Travel Router 漏洞, 文件上传漏洞，栈溢出漏洞利用，有利用过程
+
+[14] https://labs.ioactive.com/2020/09/no-buffers-harmed-rooting-sierra.html
+sierra wireless 设备 固件解密方法
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
