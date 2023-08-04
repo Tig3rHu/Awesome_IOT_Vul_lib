@@ -122,3 +122,7 @@ https://www.accenture.com/us-en/blogs/security/finding-vulnerabilities-vulfi-ida
 [3] UBI 固件镜像打包
 https://blog.csdn.net/sxlworld/article/details/123871505
 
+
+# encrpty 
+fortinet 固件解密
+https://bishopfox.com/blog/breaking-fortinet-firmware-encryption
