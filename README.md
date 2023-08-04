@@ -125,4 +125,5 @@ https://blog.csdn.net/sxlworld/article/details/123871505
 
 # encrpty 
 fortinet 固件解密
+
 https://bishopfox.com/blog/breaking-fortinet-firmware-encryption
