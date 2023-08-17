@@ -104,11 +104,6 @@ https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/
 海盗讲车：车机的渗透思路与实例分析
 https://www.freebuf.com/articles/endpoint/241930.html?ref=www.ctfiot.com
 
-## 加解密
-
-
-[1] https://cloud.tencent.com/developer/article/1005700
-四个字节的安全 ：一次固件加密算法的逆向分析, 对固件进行解密分析，其中有对AES加密和sha加密的分析，以及对芯片中不同内存区中寄存器作用的分析。很干货
 ## Firewall
 
 # Idea
@@ -127,6 +122,8 @@ https://blog.csdn.net/sxlworld/article/details/123871505
 
 
 # encrpty 
-fortinet 固件解密
 
-https://bishopfox.com/blog/breaking-fortinet-firmware-encryption
+[1] https://bishopfox.com/blog/breaking-fortinet-firmware-encryption
+fortinet 固件解密
+[2] https://cloud.tencent.com/developer/article/1005700
+四个字节的安全 ：一次固件加密算法的逆向分析, 对固件进行解密分析，其中有对AES加密和sha加密的分析，以及对芯片中不同内存区中寄存器作用的分析。很干货
