@@ -58,6 +58,10 @@ WiFi Travel Router 漏洞, 文件上传漏洞，栈溢出漏洞利用，有利�
 
 [14] https://labs.ioactive.com/2020/09/no-buffers-harmed-rooting-sierra.html
 sierra wireless 设备 固件解密方法
+
+[15] https://research.aurainfosec.io/pentest/bee-yond-capacity/
+从一个服务中发现了未授权缓冲区溢出的漏洞，到完整的漏洞利用，文件由alsr 的保护，文中讲述了如何对收到alsr 保护进行漏洞利用。
+
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
