@@ -110,6 +110,10 @@ https://www.freebuf.com/articles/endpoint/241930.html?ref=www.ctfiot.com
 
 ## Firewall
 
+## NAS
+zyxel NAS d的认证绕过漏洞
+https://bugprove.com/knowledge-hub/cve-2023-4473-and-cve-2023-4474-authentication-bypass-and-multiple-blind-os-command-injection-vulnerabilities-in-zyxel-s-nas-326-devices/
+
 # Idea
 
 ## Automation Vulnerability discover
