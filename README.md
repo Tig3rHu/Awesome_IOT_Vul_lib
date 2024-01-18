@@ -97,6 +97,9 @@ summary : Some research on historical vulnerabilities of Xiongmai devices
 
 summary : A means of attacking by updating firmware
 
+[9] https://medium.com/@two06/hacking-a-tapo-tc60-camera-e6ce7ca6cad1
+
+summary: 针对摄像头的漏洞挖掘，每个步骤介绍都很详细
 
 ## Security of Car
 海盗讲车：黑掉T-Box
@@ -141,3 +144,6 @@ fortinet 固件解密
 
 Rooting the FiiO M6 - Part 1 - Using the "World's Worst Fuzzer" To Find A Kernel Bug
 https://stigward.github.io/posts/fiio-m6-kernel-bug/
+
+对android 系统的漏洞挖掘
+https://blog.stmcyber.com/pax-pos-cves-2023/
