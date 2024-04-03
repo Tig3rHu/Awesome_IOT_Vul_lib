@@ -103,15 +103,15 @@ summary: 针对摄像头的漏洞挖掘，每个步骤介绍都很详细
 
 ## Security of Car
 
-海盗讲车：黑掉T-Box
+海盗讲车：黑掉T-Box👇
 
 https://www.freebuf.com/articles/endpoint/240414.html?ref=www.ctfiot.com
 
-对挪威一款Zaptec Pro 电动车充电桩的安全研究报告
+对挪威一款Zaptec Pro 电动车充电桩的安全研究报告👇
 
 https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/
 
-海盗讲车：车机的渗透思路与实例分析
+海盗讲车：车机的渗透思路与实例分析👇
 
 https://www.freebuf.com/articles/endpoint/241930.html?ref=www.ctfiot.com
 
@@ -119,38 +119,38 @@ https://www.freebuf.com/articles/endpoint/241930.html?ref=www.ctfiot.com
 
 ## NAS
 
-zyxel NAS d的认证绕过漏洞
+zyxel NAS d的认证绕过漏洞👇
 
 https://bugprove.com/knowledge-hub/cve-2023-4473-and-cve-2023-4474-authentication-bypass-and-multiple-blind-os-command-injection-vulnerabilities-in-zyxel-s-nas-326-devices/
 
 # Idea
 
 ## Automation Vulnerability discover
-[1] use Binary Ninja to discover vulnerabilty of IOT device
+[1] use Binary Ninja to discover vulnerabilty of IOT device👇
 
 https://dawnslab.jd.com/binaryninja1-zh-cn/
 
-[2]Finding Vulnerabilities with VulFi IDA Plugin
+[2]Finding Vulnerabilities with VulFi IDA Plugin👇
 
 https://www.accenture.com/us-en/blogs/security/finding-vulnerabilities-vulfi-ida-plugin
 
-[3] UBI 固件镜像打包
+[3] UBI 固件镜像打包👇
 
 https://blog.csdn.net/sxlworld/article/details/123871505
 
 
 # encrpty 
 
-fortinet 固件解密
+fortinet 固件解密👇
 
 [1] https://bishopfox.com/blog/breaking-fortinet-firmware-encryption
 
-四个字节的安全 ：一次固件加密算法的逆向分析, 对固件进行解密分析，其中有对AES加密和sha加密的分析，以及对芯片中不同内存区中寄存器作用的分析。很干货
+四个字节的安全 ：一次固件加密算法的逆向分析, 对固件进行解密分析，其中有对AES加密和sha加密的分析，以及对芯片中不同内存区中寄存器作用的分析。很干货👇
 
 [2] https://cloud.tencent.com/developer/article/1005700
 
 
-[3] Zyxel设备固件解密&提取分析
+[3] Zyxel设备固件解密&提取分析👇
 
 https://mp.weixin.qq.com/s/7MAYQEbv4KlSnehJLd8GqQ
 https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/
@@ -159,15 +159,15 @@ https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysi
 
 # Android Kernel & devices
 
-Rooting the FiiO M6 - Part 1 - Using the "World's Worst Fuzzer" To Find A Kernel Bug
+Rooting the FiiO M6 - Part 1 - Using the "World's Worst Fuzzer" To Find A Kernel Bug👇
 
 https://stigward.github.io/posts/fiio-m6-kernel-bug/
 
-对android 系统的漏洞挖掘
+对android 系统的漏洞挖掘👇
 
 https://blog.stmcyber.com/pax-pos-cves-2023/
 
-大疆无人机DJI Mini 3 Pro 的固件分析&解密，服务分析，漏洞挖掘
+大疆无人机DJI Mini 3 Pro 的固件分析&解密，服务分析，漏洞挖掘👇
 
 https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis
 https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-2-vulnerability-analysis
