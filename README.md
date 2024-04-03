@@ -139,6 +139,11 @@ fortinet 固件解密
 [2] https://cloud.tencent.com/developer/article/1005700
 四个字节的安全 ：一次固件加密算法的逆向分析, 对固件进行解密分析，其中有对AES加密和sha加密的分析，以及对芯片中不同内存区中寄存器作用的分析。很干货
 
+[3] Zyxel设备固件解密&提取分析
+https://mp.weixin.qq.com/s/7MAYQEbv4KlSnehJLd8GqQ
+https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/
+
+
 
 # Android Kernel & devices
 
@@ -148,7 +153,7 @@ https://stigward.github.io/posts/fiio-m6-kernel-bug/
 对android 系统的漏洞挖掘
 https://blog.stmcyber.com/pax-pos-cves-2023/
 
-大疆无人机DJI Mini 3 Pro 的固件分析，服务分析，漏洞挖掘
+大疆无人机DJI Mini 3 Pro 的固件分析&解密，服务分析，漏洞挖掘
 https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis
 https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-2-vulnerability-analysis
 https://icanhack.nl/blog/dji-rm500-privilege-escalation/
