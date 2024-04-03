@@ -159,16 +159,15 @@ https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysi
 
 
 # Android Kernel & devices
-
-Rooting the FiiO M6 - Part 1 - Using the "World's Worst Fuzzer" To Find A Kernel Bug👇
+[A1] Rooting the FiiO M6 - Part 1 - Using the "World's Worst Fuzzer" To Find A Kernel Bug👇
 
 https://stigward.github.io/posts/fiio-m6-kernel-bug/
 
-对android 系统的漏洞挖掘👇
+[A2] 对android 系统的漏洞挖掘👇
 
 https://blog.stmcyber.com/pax-pos-cves-2023/
 
-大疆无人机DJI Mini 3 Pro 的固件分析&解密，服务分析，漏洞挖掘👇
+[A3] 大疆无人机DJI Mini 3 Pro 的固件分析&解密，服务分析，漏洞挖掘👇
 
 https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis
 
