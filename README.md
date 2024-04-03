@@ -102,19 +102,25 @@ summary : A means of attacking by updating firmware
 summary: 针对摄像头的漏洞挖掘，每个步骤介绍都很详细
 
 ## Security of Car
+
 海盗讲车：黑掉T-Box
+
 https://www.freebuf.com/articles/endpoint/240414.html?ref=www.ctfiot.com
 
 对挪威一款Zaptec Pro 电动车充电桩的安全研究报告
+
 https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/
 
 海盗讲车：车机的渗透思路与实例分析
+
 https://www.freebuf.com/articles/endpoint/241930.html?ref=www.ctfiot.com
 
 ## Firewall
 
 ## NAS
+
 zyxel NAS d的认证绕过漏洞
+
 https://bugprove.com/knowledge-hub/cve-2023-4473-and-cve-2023-4474-authentication-bypass-and-multiple-blind-os-command-injection-vulnerabilities-in-zyxel-s-nas-326-devices/
 
 # Idea
@@ -129,15 +135,20 @@ https://dawnslab.jd.com/binaryninja1-zh-cn/
 https://www.accenture.com/us-en/blogs/security/finding-vulnerabilities-vulfi-ida-plugin
 
 [3] UBI 固件镜像打包
+
 https://blog.csdn.net/sxlworld/article/details/123871505
 
 
 # encrpty 
 
-[1] https://bishopfox.com/blog/breaking-fortinet-firmware-encryption
 fortinet 固件解密
-[2] https://cloud.tencent.com/developer/article/1005700
+
+[1] https://bishopfox.com/blog/breaking-fortinet-firmware-encryption
+
 四个字节的安全 ：一次固件加密算法的逆向分析, 对固件进行解密分析，其中有对AES加密和sha加密的分析，以及对芯片中不同内存区中寄存器作用的分析。很干货
+
+[2] https://cloud.tencent.com/developer/article/1005700
+
 
 [3] Zyxel设备固件解密&提取分析
 
