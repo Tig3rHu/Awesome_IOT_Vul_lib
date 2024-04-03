@@ -153,6 +153,7 @@ fortinet 固件解密👇
 [3] Zyxel设备固件解密&提取分析👇
 
 https://mp.weixin.qq.com/s/7MAYQEbv4KlSnehJLd8GqQ
+
 https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/
 
 
@@ -170,5 +171,7 @@ https://blog.stmcyber.com/pax-pos-cves-2023/
 大疆无人机DJI Mini 3 Pro 的固件分析&解密，服务分析，漏洞挖掘👇
 
 https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis
+
 https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-2-vulnerability-analysis
+
 https://icanhack.nl/blog/dji-rm500-privilege-escalation/
