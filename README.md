@@ -140,10 +140,15 @@ fortinet 固件解密
 四个字节的安全 ：一次固件加密算法的逆向分析, 对固件进行解密分析，其中有对AES加密和sha加密的分析，以及对芯片中不同内存区中寄存器作用的分析。很干货
 
 
-# Android Kernel
+# Android Kernel & devices
 
 Rooting the FiiO M6 - Part 1 - Using the "World's Worst Fuzzer" To Find A Kernel Bug
 https://stigward.github.io/posts/fiio-m6-kernel-bug/
 
 对android 系统的漏洞挖掘
 https://blog.stmcyber.com/pax-pos-cves-2023/
+
+大疆无人机DJI Mini 3 Pro 的固件分析，服务分析，漏洞挖掘
+https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis
+https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-2-vulnerability-analysis
+https://icanhack.nl/blog/dji-rm500-privilege-escalation/
