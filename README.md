@@ -117,6 +117,8 @@ https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/
 https://www.freebuf.com/articles/endpoint/241930.html?ref=www.ctfiot.com
 
 ## Firewall
+ Palo-Alto OS CVE-2024-3400 poc 👇
+https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/
 
 ## NAS
 
