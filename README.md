@@ -49,21 +49,27 @@ TP-Link WR940N SSDP 漏洞
 对DIR-864 固件模拟和漏洞挖掘，通过上传配置文件，打开路由器的telnetd。
 
 [11] https://blog.talosintelligence.com/vulnerability-spotlight-netgear-orbi-router-vulnerable-to-arbitrary-command-execution/
+
 Netgear Orbi Satellite RBS750，远程代码执行漏洞 TAOS-2022-1595 (CVE-2022-36429)
 
 [12] https://mahaloz.re/2023/02/25/pwnagent-netgear.html
+
 PwnAgent：带有 CVE-2023-24749 的 Netgear RAX 路由器中的一键式 WAN 端 RCE
 
 [13] https://code-byter.com/2022/04/06/fantec-wifi.html
+
 WiFi Travel Router 漏洞, 文件上传漏洞，栈溢出漏洞利用，有利用过程
 
 [14] https://labs.ioactive.com/2020/09/no-buffers-harmed-rooting-sierra.html
+
 sierra wireless 设备 固件解密方法
 
 [15] https://research.aurainfosec.io/pentest/bee-yond-capacity/
+
 从一个服务中发现了未授权缓冲区溢出的漏洞，到完整的漏洞利用，文件由alsr 的保护，文中讲述了如何对收到alsr 保护进行漏洞利用。
 
 [16] https://www.shielder.com/blog/2024/01/hunting-for-~~un~~authenticated-n-days-in-asus-routers/
+
 使用Qiling 仿真华硕固件，利用diff 来驱动漏洞触发位置，发现格式化字符串并写exploit
 
 
