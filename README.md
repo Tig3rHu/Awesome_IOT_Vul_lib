@@ -63,6 +63,10 @@ sierra wireless 设备 固件解密方法
 [15] https://research.aurainfosec.io/pentest/bee-yond-capacity/
 从一个服务中发现了未授权缓冲区溢出的漏洞，到完整的漏洞利用，文件由alsr 的保护，文中讲述了如何对收到alsr 保护进行漏洞利用。
 
+[16] https://www.shielder.com/blog/2024/01/hunting-for-~~un~~authenticated-n-days-in-asus-routers/
+使用Qiling 仿真华硕固件，利用diff 来驱动漏洞触发位置，发现格式化字符串并写exploit
+
+
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
