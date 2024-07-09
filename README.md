@@ -72,6 +72,10 @@ sierra wireless 设备 固件解密方法
 
 使用Qiling 仿真华硕固件，利用diff 来驱动漏洞触发位置，发现格式化字符串并写exploit
 
+[17] https://blog.talosintelligence.com/multiple-vulnerabilities-in-tp-link-omada-system/
+
+talo 对 tp-link 多个漏洞的报告，十多个漏洞，都有详细的代码
+
 
 ## Camera
 
