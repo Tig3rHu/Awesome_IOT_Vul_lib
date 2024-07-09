@@ -144,6 +144,12 @@ zyxel NAS d的认证绕过漏洞👇
 
 https://bugprove.com/knowledge-hub/cve-2023-4473-and-cve-2023-4474-authentication-bypass-and-multiple-blind-os-command-injection-vulnerabilities-in-zyxel-s-nas-326-devices/
 
+zyxel Nas CVE-2023-4473 remote code 
+https://securityintelligence.com/x-force/ibm-identifies-zero-day-vulnerability-zyxel-nas-devices/
+
+zyxel Nas backdoor vul and other vul
+https://outpost24.com/blog/zyxel-nas-critical-vulnerabilities/
+
 # Idea
 
 ## Automation Vulnerability discover
