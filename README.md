@@ -135,7 +135,8 @@ https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-20
 pwn a printer 👇
 https://sdomi.pl/weblog/20-pwning-a-labelmaker/
 
-
+17 vulnerabilities in Sharp Multi-Function Printers,惠普打印机中存在多个漏洞 👇
+https://seclists.org/fulldisclosure/2024/Jul/0
 
 ## NAS
 
