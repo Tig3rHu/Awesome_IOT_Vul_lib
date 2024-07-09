@@ -131,6 +131,12 @@ https://www.freebuf.com/articles/endpoint/241930.html?ref=www.ctfiot.com
  
 https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/
 
+## printer
+pwn a printer 👇
+https://sdomi.pl/weblog/20-pwning-a-labelmaker/
+
+
+
 ## NAS
 
 zyxel NAS d的认证绕过漏洞👇
