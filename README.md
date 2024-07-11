@@ -76,6 +76,9 @@ sierra wireless 设备 固件解密方法
 
 talo 对 tp-link 多个漏洞的报告，十多个漏洞，都有详细的代码
 
+[18]  23年pwn2own 中 TP-Link ER605 路由器WAN漏洞报告，从动态DNS(DDNS) 服务中分析出来的一系列的漏洞，DDNS 协议数据使用对称加密，可伪造上游；发现堆栈溢出和OOB 的问题。
+
+https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase
 
 ## Camera
 
