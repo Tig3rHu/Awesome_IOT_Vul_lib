@@ -80,6 +80,9 @@ talo 对 tp-link 多个漏洞的报告，十多个漏洞，都有详细的代码
 
 https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase
 
+[19] 这是一篇有关路由器Fuzz的论文，TP-Link TL-WR902AC + AFL
+https://tsmr.eu/blackbox-fuzzing.html
+
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
