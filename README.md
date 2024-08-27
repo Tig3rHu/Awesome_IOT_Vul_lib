@@ -84,6 +84,11 @@ https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase
 
 https://tsmr.eu/blackbox-fuzzing.html
 
+[20] 有关iot 设备的fuzz 论文、思路
+
+https://github.com/otsmr/blackbox-fuzzing
+
+
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
