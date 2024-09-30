@@ -181,6 +181,8 @@ https://www.accenture.com/us-en/blogs/security/finding-vulnerabilities-vulfi-ida
 
 https://blog.csdn.net/sxlworld/article/details/123871505
 
+[4] 将电池改装成一个小炸弹
+https://www.bunniestudios.com/blog/2024/turning-everyday-gadgets-into-bombs-is-a-bad-idea/
 
 # encrpty 
 
