@@ -154,6 +154,10 @@ https://sdomi.pl/weblog/20-pwning-a-labelmaker/
 17 vulnerabilities in Sharp Multi-Function Printers,惠普打印机中存在多个漏洞 👇
 https://seclists.org/fulldisclosure/2024/Jul/0
 
+打印机设备分析，老版cups系统，全方面的讲述了对brother打印机的逆向和分析👇
+https://sdomi.pl/weblog/20-pwning-a-labelmaker/
+
+
 ## NAS
 
 zyxel NAS d的认证绕过漏洞👇
