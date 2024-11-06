@@ -130,7 +130,7 @@ summary: 针对摄像头的漏洞挖掘，每个步骤介绍都很详细
 
 [10] https://www.labs.greynoise.io/grimoire/2024-10-31-sift-0-day-rce/
 
-summary: ValueHD Corporation (VHD) PTZ云台摄像头漏洞披露 CVE-2024-8956、CVE-2024-8957
+summary: ValueHD Corporation (VHD) PTZ云台摄像头漏洞披露 CVE-2024-8956、CVE-2024-8957  ref: https://ptzoptics.com/about-us/
 
 
 ## Security of Car
