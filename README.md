@@ -88,6 +88,9 @@ https://tsmr.eu/blackbox-fuzzing.html
 
 https://github.com/otsmr/blackbox-fuzzing
 
+[21] 对交换机的固件分析，涉及到使用qemu 系统和用户层来模拟固件，并且分析出其中的cgi 中存在的漏洞
+
+https://claroty.com/team82/research/hack-the-emulated-planet-vulnerability-hunting-planet-wgs-804hpt-industrial-switch
 
 ## Camera
 
