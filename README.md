@@ -92,6 +92,10 @@ https://github.com/otsmr/blackbox-fuzzing
 
 https://claroty.com/team82/research/hack-the-emulated-planet-vulnerability-hunting-planet-wgs-804hpt-industrial-switch
 
+[22] tenda ac8 rop --> rce ，漏洞利用
+
+https://0reg.dev/blog/tenda-ac8-rop
+
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
