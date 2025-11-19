@@ -96,6 +96,10 @@ https://claroty.com/team82/research/hack-the-emulated-planet-vulnerability-hunti
 
 https://0reg.dev/blog/tenda-ac8-rop
 
+[23] 通过rop链绕过ASLR实现摄像头的未认证RCE，从获取shell(uart 通过修改boot_arg 绕过引导加载程序)，到分析关键组件找到漏洞，组合gadget 获取rce。
+
+https://modzero.com/en/blog/no-leak-no-problem/
+
 ## Camera
 
 [1] https://talosintelligence.com/vulnerability_reports/TALOS-2021-1424
